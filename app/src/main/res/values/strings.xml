@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Roommate</string>
+
+    <string name="just_a_background_circle">Just a background circle</string>
+
+    <string name="add_expense">Add Expense</string>
+    <string name="_100">₹100</string>
+    <string name="ankul">Ankul</string>
+    <string name="ankur">Ankur</string>
+    <string name="pranav">Pranav</string>
+    <string name="shivendra">Shivendra</string>
+    <string name="add">Add</string>
+
+    <string name="forgot_your_password">Forgot Your Password ?</string>
+
+</resources>
